@@ -4,7 +4,7 @@
 Lauren Hyoseo Yoon
 
 ## Your Glitch link
-[my page](https://laurenhyoseoyoon-a1.glitch.me)
+https://laurenhyoseoyoon.github.io/Generative-Coding-Project5/ 
 
 
 ## **Generator 1** what does this generate?
