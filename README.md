@@ -3,7 +3,7 @@
 ## Your name
 Lauren Hyoseo Yoon
 
-## Your Glitch link
+## Project 5 Link
 https://laurenhyoseoyoon.github.io/Generative-Coding-Project5/ 
 
 
