@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title >PROJECT 5 - GENERATORS/SIMULATORS</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+	  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Nunito:wght@300&display=swap">
+    <style>
+        body {
+          font-family: "Nunito", sans-serif;
+        }
+    </style>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.10.2/p5.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.10.2/addons/p5.sound.min.js"></script>
+     <script src="https://cdn.jsdelivr.net/gh/freshfork/p5.EasyCam@1.0.10/p5.easycam.min.js"></script>
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <script language="javascript" type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/dat-gui/0.7.7/dat.gui.min.js"></script>
+    <meta charset="utf-8" />
+
+  </head>
+  <body oncontextmenu="return false;">
+  
+    <div id="easycamhud" class="hud unselectable">
+      <h3>Default Simulation Parameters</h3>
+      <div>
+        <ul id="hud-left" class="two"></ul>
+        <ul id="hud-right" class="two"></ul>
+      </div>
+    </div>
+    
+    <script src="particle.js"></script>
+    <script src="attractor.js"></script>
+    <script src="init.js"></script>
+    <script src="sketch.js"></script>
+  </body>
+
+</html>
